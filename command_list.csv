@@ -1,0 +1,193 @@
+    1  git --version
+    2  history -c && rm ~/.bash_history
+    3  cd
+    4  cd --репозиторій
+    5  cd репозиторій
+    6  history -c && rm ~/.bash_history
+    7  history -c && rm ~/.bash_history
+    8  history -c && rm ~/.bash_history
+    9  с
+   10  cd репозиторій
+   11  cd desktop
+   12  cd репозиторій
+   13  history -c && rm ~/.bash_history
+   14  git clone https://github.com/Ivanna96/HW_10
+   15  Git clone https://github.com/Ivanna96/HW_10
+   16  https://github.com/Ivanna96/HW_10
+   17  git clone https://github.com/Ivanna96/HW_10
+   18  cd desktop
+   19  cd Git
+   20  Git clone https://github.com/Ivanna96/HW_10
+   21  sudo rm -f /usr/local/bin/git\n
+   22  git --version\n
+   23  install
+   24  git clonehttps://github.com/Ivanna96/HW_10
+   25  cd desktop
+   26  cd Git
+   27  git clone https://github.com/Ivanna96/HW_10.git
+   28  https://github.com/Ivanna96/HW_10
+   29  git clone https://github.com/Ivanna96/HW_10
+   30  git clone https://github.com/USERNAME/REPOSITORY.git\n
+   31  git --verrsion
+   32  git --version
+   33  $ git --version
+   34  git --version
+   35  git --version
+   36  git --version
+   37  chsh -s /bin/zsh
+   38  git --version
+   39  xcode-select--install 
+   40  git --version
+   41  sudo rm -f /usr/local/bin/git\n
+   42  git --version\n
+   43  sudo rm -f /usr/local/bin/git\n
+   44  git --version\n
+   45  git --version
+   46  git clone https://github.com/Ivanna96/HW_10
+   47  git clone https://github.com/Ivanna96/HW_10
+   48  cd Git
+   49  cd desktop
+   50  cd Git
+   51  ls
+   52  touch text_ignore.txt\n
+   53  echo text_ignore.txt >> .gitignore\n
+   54  git status\n
+   55  pwd\n
+   56  ls
+   57  cd REPOSITORY\n
+   58  git status\n
+   59  echo text_ignore.txt >> .gitignore\n
+   60  git status\n
+   61  pwd\n
+   62  ls\n
+   63  cd HW_10
+   64  echo text_ignore.txt >> .gitignore\n
+   65  git status\n
+   66  git add .\n
+   67  git commit -m "Add text_ignore.txt to gitignore"\n
+   68  touch main_test.txt\n
+   69  git add .\n
+   70  git commit -m "Add main_test.txt"\n
+   71  git checkout -b develop\n
+   72  touch develop_test.txt\n
+   73  git add .\n
+   74  git commit -m "Add develop_test.txt"\n
+   75  echo "just a small change" >> develop_test.txt\n
+   76  git status\n
+   77  git add .\n
+   78  git commit -m "Update develop_test.txt"\n
+   79  git checkout main\n
+   80  git merge develop\n
+   81  git log --oneline\n
+   82  history 0 > command_list.csv\n
+   83  git add .\n
+   84  git commit -m "Add command history"\n
+   85  git push\n
+   86  history 0 > command_list.csv\n
+   87  ls\n
+   88  git add .\n
+   89  git commit -m "Add command history"\n
+   90  git push\n
+   91  git push\n
+   92  git push\n
+   93  git push origin main
+   94  git push\n
+   95  git push
+   96  git push
+   97  git push
+   98  git push
+   99  git push
+  100  git push
+  101  git push
+  102  get push
+  103  Ivanna96
+  104  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
+  105  get push
+  106  Ivanna96
+  107  git --version\n
+  108  mkdir Git
+  109  cd Git
+  110  history -c && rm ~/.bash_history\n
+  111  git config --global user.name Ivanna96
+  112  git config --global user.email anikeevai561@gmail.com
+  113  git clone https://github.com/Ivanna96/HW_10
+  114  cd HW_10\n
+  115  touch text_ignore.txt\n
+  116  echo "text_ignore.txt" >> .gitignore\n
+  117  git status\n
+  118  git add .\ngit commit -m "Add text_ignore.txt to gitignore"\n
+  119  touch main_test.txt\ngit add .\ngit commit -m "Add main_test.txt"\n
+  120   git checkout -b develop\n
+  121  touch develop_test.txt\ngit add .\ngit commit -m "Add develop_test.txt"\n
+  122  echo "just a small change" >> develop_test.txt\ngit status\ngit add .\ngit commit -m "Update develop_test.txt"\n
+  123  git checkout main\ngit merge develop\n
+  124  history 0 > command_list.csv\n
+  125  git add .\ngit commit -m "Add command history"\n
+  126  git push https://github.com/Ivanna96/HW_10
+  127  Ivanna96
+  128  git push https://github.com/Ivanna96/HW_10
+  129  mkdir Git
+  130  cd Git
+  131  history -c && rm ~/.bash_history\n
+  132  git config --global user.name  Ivanna96
+  133  git config --global user.email anikeevai561@gmail.com
+  134  git config --global --list\n
+  135  git clone https://github.com/Ivanna96/HW_10
+  136  cd HW_10\n
+  137  touch text_ignore.txt\n
+  138  echo "text_ignore.txt" >> .gitignore\n
+  139  git status\n
+  140  git add .\ngit commit -m "Add text_ignore.txt to gitignore"\n
+  141  touch main_test.txt\ngit add .\ngit commit -m "Add main_test.txt"\n
+  142  git checkout -b develop\n
+  143  touch develop_test.txt\ngit add .\ngit commit -m "Add develop_test.txt"\n
+  144  echo "just a small change" >> develop_test.txt\ngit status\ngit add .\ngit commit -m "Update develop_test.txt"\n
+  145  git checkout main\ngit merge develop\n
+  146  history 0 > command_list.csv\n
+  147  git add .\ngit commit -m "Add command history"\n
+  148  git push https://github.com/Ivanna96/HW_10
+  149  Username: Ivanna96
+  150  Ivanna96
+  151  git push
+  152  git add command_list.csv\ngit commit --amend -m "Add command history (without token)"\n
+  153  git push --force\n
+  154  git push
+  155  rm -rf HW\n
+  156  git --version\n
+  157  cd desktop
+  158  cd папка
+  159  history -c && rm ~/.bash_history\n
+  160  git config --global user.name Ivanna96
+  161  git config --global user.email  anikeevai561@gmail.com
+  162  git config --global --list\n
+  163  git clone https://github.com/Ivanna96/HW_10
+  164  cd HW_10
+  165  touch text_ignore.txt\n
+  166  echo "text_ignore.txt" >> .gitignore\n
+  167  git status\n
+  168  git add .\n
+  169  git commit -m "Add .gitignore and ignore text_ignore.txt"\n
+  170  git rm --cached text_ignore.txt\n
+  171  git status\n
+  172  git commit -m "Remove text_ignore.txt from repository"\n
+  173  git status\n
+  174  git status --ignored\n
+  175  touch main_test.txt\n
+  176  ls
+  177  git add .\n
+  178  git commit -m "Add empty file main_test.txt"\n
+  179  git status\n
+  180  git checkout -b develop\n
+  181  git branch\n
+  182  touch develop_test.txt\n
+  183  git add .\n
+  184  git commit -m "Add empty file develop_test.txt"\n
+  185  echo "just a small change" >> develop_test.txt\n
+  186  git status\n
+  187  git add .\n
+  188  git commit -m "Update develop_test.txt with a small change"\n
+  189  git status\n
+  190  git checkout main\n
+  191  git branch\n
+  192  git merge develop\n
+  193  git log --oneline --graph --all\n
